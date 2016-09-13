@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/com/xdoc/element/Attribute.java=UTF-8
+encoding//src/com/xdoc/element/Node.java=UTF-8
+encoding//src/com/xdoc/parser/NodeParser.java=UTF-8
+encoding//src/com/xdoc/selector/logic/NodeSelector.java=UTF-8
+encoding//src/com/xdoc/selector/logic/UnaryTagSelector.java=UTF-8
